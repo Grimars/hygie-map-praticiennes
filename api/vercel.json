@@ -1,7 +1,1 @@
-{
-  "functions": {
-    "api/praticiennes.js": {
-      "runtime": "edge"
-    }
-  }
-}
+{}
